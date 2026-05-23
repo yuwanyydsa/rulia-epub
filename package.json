@@ -1,0 +1,10 @@
+{
+  "name": "rulia-epub",
+  "version": "1.0.0",
+  "description": "ePub电子书阅读插件，支持解析和阅读EPUB格式电子书。",
+  "private": true,
+  "author": {
+    "name": "yuwanyydsa",
+    "email": "your-email@example.com"
+  }
+}
